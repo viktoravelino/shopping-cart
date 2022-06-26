@@ -12,7 +12,7 @@ This project use the following technologies:
 
 ## 💻 Project
 
-This project exemplify a shopping cart built with React using local storage to persist the information
+This project exemplifies a shopping cart using React and persisting data into localStorage.
 
 ##### _Most of the data is static_
 
